@@ -73,6 +73,11 @@ a {
   gap: 6px;
 }
 
+.quote-pink {
+  color: var(--pink);
+  font-style: italic;
+}
+
 .nav-mark .dot {
   width: 6px;
   height: 6px;
